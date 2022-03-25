@@ -26,4 +26,4 @@ University of Communications and Informatics of the city of Samara
 
 ## English:
 
-A2(Elementary)
+A2(Elementary+)
